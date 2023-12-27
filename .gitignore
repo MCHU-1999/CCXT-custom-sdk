@@ -1,0 +1,6 @@
+node_modules
+functionTest.js
+ccxtTest.js
+ccxtHas.js
+.env
+.DS_Store
